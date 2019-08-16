@@ -1,0 +1,13 @@
+.navbar .logBtn{
+  width: calc(100% - 215px);
+}
+
+.navbar .logBtn button{
+  float: right;    
+}
+
+.avatar {
+  height: 32px;
+  width: 32px;
+  border-radius: 50%;
+}
